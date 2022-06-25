@@ -1,0 +1,301 @@
+{
+  "assets": {
+    "laptop1": {
+      "id": "laptop1",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/laptop1.obj"
+      },
+      "metadata": {
+        "class_id": 5,
+        "description": "Macbook",
+        "xscale": 0.241,
+        "yscale": 0.236,
+        "zscale": 0.341
+      }
+    },
+    "laptop2": {
+      "id": "laptop2",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/laptop2.obj"
+      },
+      "metadata": {
+        "class_id": 5,
+        "description": "Dell Inspiron Mini",
+        "xscale": 0.266,
+        "yscale": 0.106,
+        "zscale": 0.222,
+        "url": "https://www.cgtrader.com/items/213714/download-page"
+      }
+    },
+    "laptop3": {
+      "id": "laptop3",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/laptop3.blend",
+        "render_import_kwargs": {
+          "filepath": "models/laptop3/laptop3.blend/Object/laptop",
+          "directory": "models/laptop3/laptop3.blend/Object",
+          "filename": "laptop"
+        }
+      },
+      "metadata": {
+        "class_id": 5,
+        "description": "No Name Intel Nvidia",
+        "xscale": 0.229,
+        "yscale": 0.234,
+        "zscale": 0.327,
+        "url": "https://free3d.com/3d-model/notebook-low-poly-version-57341.html"
+      }
+    },
+    "laptop4": {
+      "id": "laptop4",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/laptop4.blend",
+        "render_import_kwargs": {
+          "filepath": "models/laptop4/laptop4.blend/Object/laptop",
+          "directory": "models/laptop4/laptop4.blend/Object",
+          "filename": "laptop"
+        }
+      },
+      "metadata": {
+        "class_id": 5,
+        "description": "HP Laptop",
+        "xscale": 0.277,
+        "yscale": 0.205,
+        "zscale": 0.311,
+        "url": "https://free3d.com/3d-model/hp-pavilion-laptop-3d-model-960810.html"
+      }
+    },
+    "laptop5": {
+      "id": "laptop5",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/laptop5.blend",
+        "render_import_kwargs": {
+          "filepath": "models/laptop5/laptop5.blend/Object/laptop",
+          "directory": "models/laptop5/laptop5.blend/Object",
+          "filename": "laptop"
+        }
+      },
+      "metadata": {
+        "class_id": 5,
+        "description": "Acer Laptop",
+        "xscale": 0.215,
+        "yscale": 0.206,
+        "zscale": 0.331,
+        "url": "https://free3d.com/3d-model/acer-laptop-985267.html"
+      }
+    },
+    "mug1": {
+      "id": "mug1",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/mug1.obj"
+      },
+      "metadata": {
+        "class_id": 6,
+        "description": "Pink Mug",
+        "xscale": 0.091,
+        "yscale": 0.072,
+        "zscale": 0.073,
+        "url": "https://free3d.com/3d-model/mug-89512.html"
+      }
+    },
+    "mug2": {
+      "id": "mug2",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/mug2.obj"
+      },
+      "metadata": {
+        "class_id": 6,
+        "description": "White Mug",
+        "xscale": 0.129,
+        "yscale": 0.1,
+        "zscale": 0.101,
+        "url": "https://free3d.com/3d-model/tea-mug-791329.html"
+      }
+    },
+    "mug3": {
+      "id": "mug3",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/mug3.blend",
+        "render_import_kwargs": {
+          "filepath": "models/mug3/mug3.blend/Object/mug",
+          "directory": "models/mug3/mug3.blend/Object",
+          "filename": "mug"
+        }
+      },
+      "metadata": {
+        "class_id": 6,
+        "description": "Nescafe Mug",
+        "xscale": 0.102,
+        "yscale": 0.0933,
+        "zscale": 0.0684,
+        "url": "https://free3d.com/3d-model/nescafe-mug-904032.html"
+      }
+    },
+    "mug4": {
+      "id": "mug4",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/mug4.blend",
+        "render_import_kwargs": {
+          "filepath": "models/mug4/mug4.blend/Object/mug",
+          "directory": "models/mug4/mug4.blend/Object",
+          "filename": "mug"
+        }
+      },
+      "metadata": {
+        "class_id": 6,
+        "description": "Yellow Mug",
+        "xscale": 0.112,
+        "yscale": 0.092,
+        "zscale": 0.080,
+        "url": "https://free3d.com/3d-model/mug-red-699458.html"
+      }
+    },
+    "mug5": {
+      "id": "mug5",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/mug5.blend",
+        "render_import_kwargs": {
+          "filepath": "models/mug5/mug5.blend/Object/mug",
+          "directory": "models/mug5/mug5.blend/Object",
+          "filename": "mug"
+        }
+      },
+      "metadata": {
+        "class_id": 6,
+        "description": "Light Blue Mug",
+        "xscale": 0.127,
+        "yscale": 0.124,
+        "zscale": 0.089,
+        "url": "https://free3d.com/3d-model/mug-blue-110264.html"
+      }
+    },
+    "mug6": {
+      "id": "mug6",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/mug6.blend",
+        "render_import_kwargs": {
+          "filepath": "models/mug6/mug6.blend/Object/mug",
+          "directory": "models/mug6/mug6.blend/Object",
+          "filename": "mug"
+        }
+      },
+      "metadata": {
+        "class_id": 6,
+        "description": "Shallow Mug",
+        "xscale": 0.149,
+        "yscale": 0.0788,
+        "zscale": 0.125,
+        "url": "https://free3d.com/3d-model/cup-933734.html"
+      }
+    },
+    "mug7": {
+      "id": "mug7",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/mug7.blend",
+        "render_import_kwargs": {
+          "filepath": "models/mug7/mug7.blend/Object/mug",
+          "directory": "models/mug7/mug7.blend/Object",
+          "filename": "mug"
+        }
+      },
+      "metadata": {
+        "class_id": 6,
+        "description": "Black Mug",
+        "xscale": 0.12,
+        "yscale": 0.106,
+        "zscale": 0.083,
+        "url": "https://free3d.com/3d-model/culver-black-mug-52773.html"
+      }
+    },
+    "bottle1": {
+      "id": "bottle1",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/bottle1.blend",
+        "render_import_kwargs": {
+          "filepath": "models/bottle1/bottle1.blend/Object/bottle",
+          "directory": "models/bottle1/bottle1.blend/Object",
+          "filename": "bottle"
+        }
+      },
+      "metadata": {
+        "class_id": 1,
+        "description": "Coca Cola Bottle",
+        "xscale": 0.06,
+        "yscale": 0.208,
+        "zscale": 0.06,
+        "url": "https://free3d.com/3d-model/realistic-bottle-of-coca-cola-26886.html"
+      }
+    },
+    "bottle2": {
+      "id": "bottle2",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/bottle2.blend",
+        "render_import_kwargs": {
+          "filepath": "models/bottle2/bottle2.blend/Object/bottle",
+          "directory": "models/bottle2/bottle2.blend/Object",
+          "filename": "bottle"
+        }
+      },
+      "metadata": {
+        "class_id": 1,
+        "description": "Wine Bottle",
+        "xscale": 0.0686,
+        "yscale": 0.28,
+        "zscale": 0.0686,
+        "url": "https://free3d.com/3d-model/-ml-wine-bottle-v1--691507.html"
+      }
+    },
+    "bottle3": {
+      "id": "bottle3",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/bottle3.blend",
+        "render_import_kwargs": {
+          "filepath": "models/bottle3/bottle3.blend/Object/bottle",
+          "directory": "models/bottle3/bottle3.blend/Object",
+          "filename": "bottle"
+        }
+      },
+      "metadata": {
+        "class_id": 1,
+        "description": "Wine Bottle",
+        "xscale": 0.0663,
+        "yscale": 0.206,
+        "zscale": 0.0663,
+        "url": "https://free3d.com/3d-model/water-bottle-88009.html"
+      }
+    }
+  },
+  "data_dir": "models",
+  "name": "BaldhatSyn",
+  "version": "1.0"
+}
