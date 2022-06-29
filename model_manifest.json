@@ -20,7 +20,12 @@
       "asset_type": "FileBasedObject",
       "license": "None",
       "kwargs": {
-        "render_filename": "{asset_dir}/laptop2.obj"
+        "render_filename": "{asset_dir}/laptop2.blend",
+        "render_import_kwargs": {
+          "filepath": "models/laptop2/laptop2.blend/Object/laptop",
+          "directory": "models/laptop2/laptop2.blend/Object",
+          "filename": "laptop"
+        }
       },
       "metadata": {
         "class_id": 5,
@@ -92,6 +97,27 @@
         "yscale": 0.206,
         "zscale": 0.331,
         "url": "https://free3d.com/3d-model/acer-laptop-985267.html"
+      }
+    },
+    "laptop6": {
+      "id": "laptop6",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/laptop6.blend",
+        "render_import_kwargs": {
+          "filepath": "models/laptop6/laptop6.blend/Object/laptop",
+          "directory": "models/laptop6/laptop6.blend/Object",
+          "filename": "laptop"
+        }
+      },
+      "metadata": {
+        "class_id": 5,
+        "description": "Mac Book Pro",
+        "xscale": 0.285,
+        "yscale": 0.204,
+        "zscale": 0.299,
+        "url": "https://www.cgtrader.com/items/3487784/download-page"
       }
     },
     "mug1": {
@@ -245,11 +271,11 @@
       },
       "metadata": {
         "class_id": 1,
-        "description": "Coca Cola Bottle",
-        "xscale": 0.06,
-        "yscale": 0.208,
-        "zscale": 0.06,
-        "url": "https://free3d.com/3d-model/realistic-bottle-of-coca-cola-26886.html"
+        "description": "Sports Bottle",
+        "xscale": 0.0567,
+        "yscale": 0.159,
+        "zscale": 0.0567,
+        "url": "https://free3d.com/3d-model/water-bottle-50082.html"
       }
     },
     "bottle2": {
@@ -287,15 +313,624 @@
       },
       "metadata": {
         "class_id": 1,
-        "description": "Wine Bottle",
+        "description": "Water Bottle",
         "xscale": 0.0663,
         "yscale": 0.206,
         "zscale": 0.0663,
         "url": "https://free3d.com/3d-model/water-bottle-88009.html"
       }
+    },
+    "bottle4": {
+      "id": "bottle4",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/bottle4.blend",
+        "render_import_kwargs": {
+          "filepath": "models/bottle4/bottle4.blend/Object/bottle",
+          "directory": "models/bottle4/bottle4.blend/Object",
+          "filename": "bottle"
+        }
+      },
+      "metadata": {
+        "class_id": 1,
+        "description": "Champagne Bottle",
+        "xscale": 0.0674,
+        "yscale": 0.26,
+        "zscale": 0.0674,
+        "url": "https://free3d.com/3d-model/bottle-v1--116169.html"
+      }
+    },
+    "bottle5": {
+      "id": "bottle5",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/bottle5.blend",
+        "render_import_kwargs": {
+          "filepath": "models/bottle5/bottle5.blend/Object/bottle",
+          "directory": "models/bottle5/bottle5.blend/Object",
+          "filename": "bottle"
+        }
+      },
+      "metadata": {
+        "class_id": 1,
+        "description": "Oz Beer Bottle",
+        "xscale": 0.056,
+        "yscale": 0.194,
+        "zscale": 0.056,
+        "url": "https://free3d.com/3d-model/-oz-beer-bottle-v2--198578.html"
+      }
+    },
+    "bottle6": {
+      "id": "bottle6",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/bottle6.blend",
+        "render_import_kwargs": {
+          "filepath": "models/bottle6/bottle6.blend/Object/bottle",
+          "directory": "models/bottle6/bottle6.blend/Object",
+          "filename": "bottle"
+        }
+      },
+      "metadata": {
+        "class_id": 1,
+        "description": "Sprite Bottle",
+        "xscale": 0.108,
+        "yscale": 0.32,
+        "zscale": 0.108,
+        "url": "https://europa.eu/europass/eportfolio/screen/cv-editor?lang=en"
+      }
+    },
+    "rubikscube1": {
+      "id": "rubikscube1",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/rubikscube1.blend",
+        "render_import_kwargs": {
+          "filepath": "models/rubikscube1/rubikscube1.blend/Object/rubikscube",
+          "directory": "models/rubikscube1/rubikscube1.blend/Object",
+          "filename": "rubikscube"
+        }
+      },
+      "metadata": {
+        "class_id": 7,
+        "description": "Rubiks Cube",
+        "xscale": 0.06,
+        "yscale": 0.06,
+        "zscale": 0.06,
+        "url": "https://free3d.com/3d-model/rubik-cube-827023.html"
+      }
+    },
+    "rubikscube2": {
+      "id": "rubikscube2",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/rubikscube2.blend",
+        "render_import_kwargs": {
+          "filepath": "models/rubikscube2/rubikscube2.blend/Object/rubikscube",
+          "directory": "models/rubikscube2/rubikscube2.blend/Object",
+          "filename": "rubikscube"
+        }
+      },
+      "metadata": {
+        "class_id": 7,
+        "description": "Rubiks Cube",
+        "xscale": 0.06,
+        "yscale": 0.06,
+        "zscale": 0.06,
+        "url": "https://free3d.com/3d-model/rubik-cube-732094.html"
+      }
+    },
+    "rubikscube3": {
+      "id": "rubikscube3",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/rubikscube3.blend",
+        "render_import_kwargs": {
+          "filepath": "models/rubikscube3/rubikscube3.blend/Object/rubikscube",
+          "directory": "models/rubikscube3/rubikscube3.blend/Object",
+          "filename": "rubikscube"
+        }
+      },
+      "metadata": {
+        "class_id": 7,
+        "description": "Rubiks Cube",
+        "xscale": 0.08,
+        "yscale": 0.08,
+        "zscale": 0.08,
+        "url": "https://free3d.com/3d-model/rubiks-cube-79430.html"
+      }
+    },
+    "rubikscube4": {
+      "id": "rubikscube4",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/rubikscube4.blend",
+        "render_import_kwargs": {
+          "filepath": "models/rubikscube4/rubikscube4.blend/Object/rubikscube",
+          "directory": "models/rubikscube4/rubikscube4.blend/Object",
+          "filename": "rubikscube"
+        }
+      },
+      "metadata": {
+        "class_id": 7,
+        "description": "White Rubiks Cube",
+        "xscale": 0.065,
+        "yscale": 0.065,
+        "zscale": 0.065,
+        "url": "https://www.cgtrader.com/items/220854/download-page"
+      }
+    },
+    "rubikscube5": {
+      "id": "rubikscube5",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/rubikscube5.blend",
+        "render_import_kwargs": {
+          "filepath": "models/rubikscube5/rubikscube5.blend/Object/rubikscube",
+          "directory": "models/rubikscube5/rubikscube5.blend/Object",
+          "filename": "rubikscube"
+        }
+      },
+      "metadata": {
+        "class_id": 7,
+        "description": "Rubiks Cube",
+        "xscale": 0.07,
+        "yscale": 0.07,
+        "zscale": 0.07,
+        "url": "https://www.cgtrader.com/free-3d-models/sports/toy/rubik-fa851381-1f2c-46bc-bfa9-e6331afb4fa1"
+      }
+    },
+    "rubikscube6": {
+      "id": "rubikscube6",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/rubikscube6.blend",
+        "render_import_kwargs": {
+          "filepath": "models/rubikscube6/rubikscube6.blend/Object/rubikscube",
+          "directory": "models/rubikscube6/rubikscube6.blend/Object",
+          "filename": "rubikscube"
+        }
+      },
+      "metadata": {
+        "class_id": 7,
+        "description": "Rubiks Cube",
+        "xscale": 0.07,
+        "yscale": 0.07,
+        "zscale": 0.07,
+        "url": "https://www.cgtrader.com/items/2989723/download-page"
+      }
+    },
+    "rubikscube7": {
+      "id": "rubikscube7",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/rubikscube7.blend",
+        "render_import_kwargs": {
+          "filepath": "models/rubikscube7/rubikscube7.blend/Object/rubikscube",
+          "directory": "models/rubikscube7/rubikscube7.blend/Object",
+          "filename": "rubikscube"
+        }
+      },
+      "metadata": {
+        "class_id": 7,
+        "description": "Rubiks Cube",
+        "xscale": 0.0607,
+        "yscale": 0.0607,
+        "zscale": 0.0607,
+        "url": "https://www.cgtrader.com/items/3221867/download-page"
+      }
+    },
+    "camera2": {
+      "id": "camera2",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/camera2.blend",
+        "render_import_kwargs": {
+          "filepath": "models/camera2/camera2.blend/Object/camera",
+          "directory": "models/camera2/camera2.blend/Object",
+          "filename": "camera"
+        }
+      },
+      "metadata": {
+        "class_id": 7,
+        "description": "Digital Camera",
+        "xscale": 0.0604,
+        "yscale": 0.0883,
+        "zscale": 0.152,
+        "url": "https://free3d.com/3d-model/digitalcamera-v3--865867.html"
+      }
+    },
+    "camera3": {
+      "id": "camera3",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/camera3.blend",
+        "render_import_kwargs": {
+          "filepath": "models/camera3/camera3.blend/Object/camera",
+          "directory": "models/camera3/camera3.blend/Object",
+          "filename": "camera"
+        }
+      },
+      "metadata": {
+        "class_id": 7,
+        "description": "Panasonic Lumix Camera",
+        "xscale": 0.103,
+        "yscale": 0.0871,
+        "zscale": 0.135,
+        "url": "https://www.cgtrader.com/items/2686097/download-page"
+      }
+    },
+    "camera4": {
+      "id": "camera4",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/camera4.blend",
+        "render_import_kwargs": {
+          "filepath": "models/camera4/camera4.blend/Object/camera",
+          "directory": "models/camera4/camera4.blend/Object",
+          "filename": "camera"
+        }
+      },
+      "metadata": {
+        "class_id": 7,
+        "description": "Sony RX100",
+        "xscale": 0.039,
+        "yscale": 0.052,
+        "zscale": 0.092,
+        "url": "https://www.cgtrader.com/items/263203/download-page"
+      }
+    },
+    "camera5": {
+      "id": "camera5",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/camera5.blend",
+        "render_import_kwargs": {
+          "filepath": "models/camera5/camera5.blend/Object/camera",
+          "directory": "models/camera5/camera5.blend/Object",
+          "filename": "camera"
+        }
+      },
+      "metadata": {
+        "class_id": 7,
+        "description": "Sony Camera",
+        "xscale": 0.119,
+        "yscale": 0.076,
+        "zscale": 0.129,
+        "url": "https://www.cgtrader.com/items/2295848/download-page"
+      }
+    },
+    "camera6": {
+      "id": "camera6",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/camera6.blend",
+        "render_import_kwargs": {
+          "filepath": "models/camera6/camera6.blend/Object/camera",
+          "directory": "models/camera6/camera6.blend/Object",
+          "filename": "camera"
+        }
+      },
+      "metadata": {
+        "class_id": 7,
+        "description": "Sony Camera",
+        "xscale": 0.07,
+        "yscale": 0.0732,
+        "zscale": 0.116,
+        "url": "https://www.cgtrader.com/items/2937633/download-page"
+      }
+    },
+    "bowl1": {
+      "id": "bowl1",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/bowl1.blend",
+        "render_import_kwargs": {
+          "filepath": "models/bowl1/bowl1.blend/Object/bowl",
+          "directory": "models/bowl1/bowl1.blend/Object",
+          "filename": "bowl"
+        }
+      },
+      "metadata": {
+        "class_id": 2,
+        "description": "White Grey Bowl",
+        "xscale": 0.19,
+        "yscale": 0.075,
+        "zscale": 0.19,
+        "url": "https://www.cgtrader.com/items/1956393/download-page"
+      }
+    },
+    "bowl2": {
+      "id": "bowl2",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/bowl2.blend",
+        "render_import_kwargs": {
+          "filepath": "models/bowl2/bowl2.blend/Object/bowl",
+          "directory": "models/bowl2/bowl2.blend/Object",
+          "filename": "bowl"
+        }
+      },
+      "metadata": {
+        "class_id": 2,
+        "description": "Black Bowl",
+        "xscale": 0.147,
+        "yscale": 0.047,
+        "zscale": 0.147,
+        "url": "https://www.cgtrader.com/items/2627399/download-page"
+      }
+    },
+    "bowl3": {
+      "id": "bowl3",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/bowl3.blend",
+        "render_import_kwargs": {
+          "filepath": "models/bowl3/bowl3.blend/Object/bowl",
+          "directory": "models/bowl3/bowl3.blend/Object",
+          "filename": "bowl"
+        }
+      },
+      "metadata": {
+        "class_id": 2,
+        "description": "Flecked Bowl",
+        "xscale": 0.165,
+        "yscale": 0.0525,
+        "zscale": 0.165,
+        "url": "https://www.cgtrader.com/items/2627399/download-page"
+      }
+    },
+    "bowl4": {
+      "id": "bowl4",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/bowl4.blend",
+        "render_import_kwargs": {
+          "filepath": "models/bowl4/bowl4.blend/Object/bowl",
+          "directory": "models/bowl4/bowl4.blend/Object",
+          "filename": "bowl"
+        }
+      },
+      "metadata": {
+        "class_id": 2,
+        "description": "Light Pink Bowl",
+        "xscale": 0.202,
+        "yscale": 0.0918,
+        "zscale": 0.202,
+        "url": "https://www.cgtrader.com/items/3480025/download-page"
+      }
+    },
+    "bowl5": {
+      "id": "bowl5",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/bowl5.blend",
+        "render_import_kwargs": {
+          "filepath": "models/bowl5/bowl5.blend/Object/bowl",
+          "directory": "models/bowl5/bowl5.blend/Object",
+          "filename": "bowl"
+        }
+      },
+      "metadata": {
+        "class_id": 2,
+        "description": "Blue Turquoise Bowl",
+        "xscale": 0.15,
+        "yscale": 0.0664,
+        "zscale": 0.15,
+        "url": "https://www.cgtrader.com/items/3610794/download-page"
+      }
+    },
+    "bowl6": {
+      "id": "bowl6",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/bowl6.blend",
+        "render_import_kwargs": {
+          "filepath": "models/bowl6/bowl6.blend/Object/bowl",
+          "directory": "models/bowl6/bowl6.blend/Object",
+          "filename": "bowl"
+        }
+      },
+      "metadata": {
+        "class_id": 2,
+        "description": "Shiny White Bowl",
+        "xscale": 0.149,
+        "yscale": 0.0737,
+        "zscale": 0.149,
+        "url": "https://www.cgtrader.com/items/3465532/download-page"
+      }
+    },
+    "bowl7": {
+      "id": "bowl7",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/bowl7.blend",
+        "render_import_kwargs": {
+          "filepath": "models/bowl7/bowl7.blend/Object/bowl",
+          "directory": "models/bowl7/bowl7.blend/Object",
+          "filename": "bowl"
+        }
+      },
+      "metadata": {
+        "class_id": 2,
+        "description": "Simple Bowl",
+        "xscale": 0.102,
+        "yscale": 0.056,
+        "zscale": 0.102,
+        "url": "https://www.cgtrader.com/items/659676/download-page"
+      }
+    },
+    "can1": {
+      "id": "can1",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/can1.blend",
+        "render_import_kwargs": {
+          "filepath": "models/can1/can1.blend/Object/can",
+          "directory": "models/can1/can1.blend/Object",
+          "filename": "can"
+        }
+      },
+      "metadata": {
+        "class_id": 4,
+        "description": "Beer Can",
+        "xscale": 0.0636,
+        "yscale": 0.157,
+        "zscale": 0.0636,
+        "url": "https://www.cgtrader.com/items/2515511/download-page"
+      }
+    },
+    "can2": {
+      "id": "can2",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/can2.blend",
+        "render_import_kwargs": {
+          "filepath": "models/can2/can2.blend/Object/can",
+          "directory": "models/can2/can2.blend/Object",
+          "filename": "can"
+        }
+      },
+      "metadata": {
+        "class_id": 4,
+        "description": "Tornado Can",
+        "xscale": 0.0623,
+        "yscale": 0.168,
+        "zscale": 0.0623,
+        "url": "https://www.cgtrader.com/items/2304051/download-page"
+      }
+    },
+    "can3": {
+      "id": "can3",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/can3.blend",
+        "render_import_kwargs": {
+          "filepath": "models/can3/can3.blend/Object/can",
+          "directory": "models/can3/can3.blend/Object",
+          "filename": "can"
+        }
+      },
+      "metadata": {
+        "class_id": 4,
+        "description": "Yellow Soda Can",
+        "xscale": 0.05,
+        "yscale": 0.092,
+        "zscale": 0.05,
+        "url": "https://www.cgtrader.com/items/2020241/download-page"
+      }
+    },
+    "can4": {
+      "id": "can4",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/can4.blend",
+        "render_import_kwargs": {
+          "filepath": "models/can4/can4.blend/Object/can",
+          "directory": "models/can4/can4.blend/Object",
+          "filename": "can"
+        }
+      },
+      "metadata": {
+        "class_id": 4,
+        "description": "Red Soda Can",
+        "xscale": 0.05,
+        "yscale": 0.092,
+        "zscale": 0.05,
+        "url": "https://www.cgtrader.com/items/2020241/download-page"
+      }
+    },
+    "can5": {
+      "id": "can5",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/can5.blend",
+        "render_import_kwargs": {
+          "filepath": "models/can5/can5.blend/Object/can",
+          "directory": "models/can5/can5.blend/Object",
+          "filename": "can"
+        }
+      },
+      "metadata": {
+        "class_id": 4,
+        "description": "Pepsi Can",
+        "xscale": 0.05,
+        "yscale": 0.097,
+        "zscale": 0.05,
+        "url": "https://free3d.com/3d-model/pepsi-92369.html"
+      }
+    },
+    "can6": {
+      "id": "can6",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/can6.blend",
+        "render_import_kwargs": {
+          "filepath": "models/can6/can6.blend/Object/can",
+          "directory": "models/can6/can6.blend/Object",
+          "filename": "can"
+        }
+      },
+      "metadata": {
+        "class_id": 4,
+        "description": "Mountain Dew Can",
+        "xscale": 0.0538,
+        "yscale": 0.104,
+        "zscale": 0.0538,
+        "url": "https://free3d.com/3d-model/realistic-can-826952.html"
+      }
+    },
+    "can7": {
+      "id": "can7",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/can7.blend",
+        "render_import_kwargs": {
+          "filepath": "models/can7/can7.blend/Object/can",
+          "directory": "models/can7/can7.blend/Object",
+          "filename": "can"
+        }
+      },
+      "metadata": {
+        "class_id": 4,
+        "description": "Duff Beer Can",
+        "xscale": 0.0517,
+        "yscale": 0.0995,
+        "zscale": 0.0517,
+        "url": "https://free3d.com/3d-model/realistic-can-826952.html"
+      }
     }
   },
   "data_dir": "models",
-  "name": "BaldhatSyn",
+  "name": "BaldhatSynthetic",
   "version": "1.0"
 }
