@@ -1,0 +1,22 @@
+{
+  "id": "bowl10",
+  "asset_type": "FileBasedObject",
+  "license": "None",
+  "kwargs": {
+    "render_filename": "{asset_dir}/bowl10.blend",
+    "render_import_kwargs": {
+      "filepath": "models/bowl10/bowl10.blend/Object/bowl",
+      "directory": "models/bowl10/bowl10.blend/Object",
+      "filename": "bowl"
+    }
+  },
+  "metadata": {
+    "class_id": 2,
+    "description": "Striped Bowl",
+    "xscale": 0.112,
+    "yscale": 0.062,
+    "zscale": 0.112,
+    "url": "https://sketchfab.com/3d-models/winter-bowl-2115e7eab2a6435c98606d667e1e22b9#download",
+    "type": "train"
+  }
+}

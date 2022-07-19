@@ -1,0 +1,22 @@
+{
+  "id": "bowl14",
+  "asset_type": "FileBasedObject",
+  "license": "None",
+  "kwargs": {
+    "render_filename": "{asset_dir}/bowl14.blend",
+    "render_import_kwargs": {
+      "filepath": "models/bowl14/bowl14.blend/Object/bowl",
+      "directory": "models/bowl14/bowl14.blend/Object",
+      "filename": "bowl"
+    }
+  },
+  "metadata": {
+    "class_id": 2,
+    "description": "White Bowl",
+    "xscale": 0.208,
+    "yscale": 0.0763,
+    "zscale": 0.208,
+    "url": "https://sketchfab.com/3d-models/bowl-c4e0e97a99714b5685bea23c2b558723",
+    "type": "train"
+  }
+}

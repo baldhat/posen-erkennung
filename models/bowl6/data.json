@@ -1,0 +1,21 @@
+{
+  "id": "bowl6",
+  "asset_type": "FileBasedObject",
+  "license": "None",
+  "kwargs": {
+    "render_filename": "{asset_dir}/bowl6.blend",
+    "render_import_kwargs": {
+      "filepath": "models/bowl6/bowl6.blend/Object/bowl",
+      "directory": "models/bowl6/bowl6.blend/Object",
+      "filename": "bowl"
+    }
+  },
+  "metadata": {
+    "class_id": 2,
+    "description": "Shiny White Bowl",
+    "xscale": 0.149,
+    "yscale": 0.0737,
+    "zscale": 0.149,
+    "url": "https://www.cgtrader.com/items/3465532/download-page"
+  }
+}

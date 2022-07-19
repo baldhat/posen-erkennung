@@ -1,0 +1,22 @@
+{
+  "id": "bottle7",
+  "asset_type": "FileBasedObject",
+  "license": "None",
+  "kwargs": {
+    "render_filename": "{asset_dir}/bottle7.blend",
+    "render_import_kwargs": {
+      "filepath": "models/bottle7/bottle7.blend/Object/bottle",
+      "directory": "models/bottle7/bottle7.blend/Object",
+      "filename": "bottle"
+    }
+  },
+  "metadata": {
+    "class_id": 1,
+    "description": "Pernod Bottle",
+    "xscale": 0.0767,
+    "yscale": 0.282,
+    "zscale": 0.0767,
+    "url": "https://sketchfab.com/3d-models/20-liquor-bottles-4729b1cfa5b74db68924190242f8ac76",
+    "type": "train"
+  }
+}

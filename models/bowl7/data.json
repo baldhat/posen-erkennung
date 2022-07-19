@@ -1,0 +1,21 @@
+{
+  "id": "bowl7",
+  "asset_type": "FileBasedObject",
+  "license": "None",
+  "kwargs": {
+    "render_filename": "{asset_dir}/bowl7.blend",
+    "render_import_kwargs": {
+      "filepath": "models/bowl7/bowl7.blend/Object/bowl",
+      "directory": "models/bowl7/bowl7.blend/Object",
+      "filename": "bowl"
+    }
+  },
+  "metadata": {
+    "class_id": 2,
+    "description": "Simple Bowl",
+    "xscale": 0.102,
+    "yscale": 0.056,
+    "zscale": 0.102,
+    "url": "https://www.cgtrader.com/items/659676/download-page"
+  }
+}

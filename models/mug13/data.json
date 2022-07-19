@@ -1,0 +1,22 @@
+{
+  "id": "mug13",
+  "asset_type": "FileBasedObject",
+  "license": "None",
+  "kwargs": {
+    "render_filename": "{asset_dir}/mug13.blend",
+    "render_import_kwargs": {
+      "filepath": "models/mug13/mug13.blend/Object/mug",
+      "directory": "models/mug13/mug13.blend/Object",
+      "filename": "mug"
+    }
+  },
+  "metadata": {
+    "class_id": 6,
+    "description": "Red Mug",
+    "xscale": 0.117,
+    "yscale": 0.097,
+    "zscale": 0.0799,
+    "url": "https://sketchfab.com/3d-models/coffee-mug-caneca-de-cafe-2f3c24f3788340a1bcf4ef992e8ea84d",
+    "type": "train"
+  }
+}

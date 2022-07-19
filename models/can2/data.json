@@ -1,0 +1,21 @@
+{
+  "id": "can2",
+  "asset_type": "FileBasedObject",
+  "license": "None",
+  "kwargs": {
+    "render_filename": "{asset_dir}/can2.blend",
+    "render_import_kwargs": {
+      "filepath": "models/can2/can2.blend/Object/can",
+      "directory": "models/can2/can2.blend/Object",
+      "filename": "can"
+    }
+  },
+  "metadata": {
+    "class_id": 4,
+    "description": "Tornado Can",
+    "xscale": 0.0623,
+    "yscale": 0.168,
+    "zscale": 0.0623,
+    "url": "https://www.cgtrader.com/items/2304051/download-page"
+  }
+}

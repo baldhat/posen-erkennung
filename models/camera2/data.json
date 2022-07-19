@@ -1,0 +1,21 @@
+{
+  "id": "camera2",
+  "asset_type": "FileBasedObject",
+  "license": "None",
+  "kwargs": {
+    "render_filename": "{asset_dir}/camera2.blend",
+    "render_import_kwargs": {
+      "filepath": "models/camera2/camera2.blend/Object/camera",
+      "directory": "models/camera2/camera2.blend/Object",
+      "filename": "camera"
+    }
+  },
+  "metadata": {
+    "class_id": 3,
+    "description": "Digital Camera",
+    "xscale": 0.0604,
+    "yscale": 0.0883,
+    "zscale": 0.152,
+    "url": "https://free3d.com/3d-model/digitalcamera-v3--865867.html"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rubikscube10",
+  "asset_type": "FileBasedObject",
+  "license": "None",
+  "kwargs": {
+    "render_filename": "{asset_dir}/rubikscube10.blend",
+    "render_import_kwargs": {
+      "filepath": "models/rubikscube10/rubikscube10.blend/Object/rubikscube",
+      "directory": "models/rubikscube10/rubikscube10.blend/Object",
+      "filename": "rubikscube"
+    }
+  },
+  "metadata": {
+    "class_id": 7,
+    "description": "Rubiks Cube",
+    "xscale": 0.062,
+    "yscale": 0.0632,
+    "zscale": 0.0632,
+    "url": "https://sketchfab.com/3d-models/rubiks-cube-4cc7c1bf585f4b929ddd32f6cab3ba58",
+    "type": "train"
+  }
+}

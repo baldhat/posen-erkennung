@@ -84,13 +84,17 @@ def get_coordinate_axes(RT, length=0.2):
 
 
 if __name__ == '__main__':
-    with open("output/metadata.txt", "rb") as f:
+    output_path = "output"
+    name = "scene"
+    phase = "train"
+    with open("{0}/{1}/metadata.txt".format(output_path, phase), "rb") as f:
         metadata = cpickle.load(f)
 
     RESOLUTION = metadata['resolution']
     intrinsics = metadata['intrinsics']
     intrinsics = intrinsics * RESOLUTION
     intrinsics[2, 2] = intrinsics[2, 2] / RESOLUTION
+    print(intrinsics)
     matrix_worlds = metadata['RT_world_cam']
     obj_RTs = metadata['RT_cam_to_obj']
     obj_scales = metadata['scale']
@@ -98,12 +102,14 @@ if __name__ == '__main__':
     for i_scene in range(len(matrix_worlds)):
         for i_image in range(len(matrix_worlds[i_scene])):
             obj_RT = obj_RTs[i_scene][i_image]
-            clear_img = cv2.imread("output/scene{0:04d}/{1:04d}_color.png".format(i_scene, i_image))
+            clear_img = cv2.imread("{0}/{4}/{3}{1:04d}/{2:04d}_color.png".format(output_path, i_scene, i_image, name, phase))
+            cv2.putText(clear_img, str(metadata['asset_ids'][i_scene][i_image]), (30, 30),
+                        fontFace=cv2.FONT_HERSHEY_TRIPLEX, fontScale=1, color=(255, 255, 255))
             axis_image = np.copy(clear_img)
 
-            depth_image = cv2.imread("output/scene{0:04d}/{1:04d}_depth.png".format(i_scene, i_image))
+            depth_image = cv2.imread("{0}/{4}/{3}{1:04d}/{2:04d}_depth.png".format(output_path, i_scene, i_image, name, phase))
 
-            mask = cv2.imread("output/scene{0:04d}/{1:04d}_segmentation.png".format(i_scene, i_image))[:, :, 0]
+            mask = cv2.imread("{0}/{4}/{3}{1:04d}/{2:04d}_segmentation.png".format(output_path, i_scene, i_image, name, phase))[:, :, 0]
             binary_masks = []
 
             final_overlay = np.zeros_like(clear_img).astype(np.uint8)

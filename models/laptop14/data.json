@@ -1,0 +1,22 @@
+{
+  "id": "laptop14",
+  "asset_type": "FileBasedObject",
+  "license": "None",
+  "kwargs": {
+    "render_filename": "{asset_dir}/laptop14.blend",
+    "render_import_kwargs": {
+      "filepath": "models/laptop14/laptop14.blend/Object/laptop",
+      "directory": "models/laptop14/laptop14.blend/Object",
+      "filename": "laptop"
+    }
+  },
+  "metadata": {
+    "class_id": 5,
+    "description": "Ubus Laptop",
+    "xscale": 0.253,
+    "yscale": 0.206,
+    "zscale": 0.33,
+    "url": "https://sketchfab.com/3d-models/laptop-free-a651092825974fc5a405129d4f50a7d2",
+    "type": "train"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "laptop13",
+  "asset_type": "FileBasedObject",
+  "license": "None",
+  "kwargs": {
+    "render_filename": "{asset_dir}/laptop13.blend",
+    "render_import_kwargs": {
+      "filepath": "models/laptop13/laptop13.blend/Object/laptop",
+      "directory": "models/laptop13/laptop13.blend/Object",
+      "filename": "laptop"
+    }
+  },
+  "metadata": {
+    "class_id": 5,
+    "description": "Alienware Predator Gaming Laptop",
+    "xscale": 0.247,
+    "yscale": 0.219,
+    "zscale": 0.32,
+    "url": "https://sketchfab.com/3d-models/laptop-alienpredator-194969af91df43788b65c5c951a07452",
+    "type": "train"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "bowl15",
+  "asset_type": "FileBasedObject",
+  "license": "None",
+  "kwargs": {
+    "render_filename": "{asset_dir}/bowl15.blend",
+    "render_import_kwargs": {
+      "filepath": "models/bowl15/bowl15.blend/Object/bowl",
+      "directory": "models/bowl15/bowl15.blend/Object",
+      "filename": "bowl"
+    }
+  },
+  "metadata": {
+    "class_id": 2,
+    "description": "Wooden Bowl",
+    "xscale": 0.249,
+    "yscale": 0.0929,
+    "zscale": 0.249,
+    "url": "https://sketchfab.com/3d-models/wooden-bowl-8c419f6d0cbc4580a2e2b9d273969b97",
+    "type": "train"
+  }
+}

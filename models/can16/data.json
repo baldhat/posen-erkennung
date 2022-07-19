@@ -1,0 +1,22 @@
+{
+  "id": "can16",
+  "asset_type": "FileBasedObject",
+  "license": "None",
+  "kwargs": {
+    "render_filename": "{asset_dir}/can16.blend",
+    "render_import_kwargs": {
+      "filepath": "models/can16/can16.blend/Object/can",
+      "directory": "models/can16/can16.blend/Object",
+      "filename": "can"
+    }
+  },
+  "metadata": {
+    "class_id": 4,
+    "description": "Skarwing West Can",
+    "xscale": 0.0795,
+    "yscale": 0.157,
+    "zscale": 0.0795,
+    "url": "https://sketchfab.com/3d-models/soda-cans-75b584d7a84b4e3e9c74401987594413",
+    "type": "train"
+  }
+}

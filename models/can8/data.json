@@ -1,0 +1,22 @@
+{
+  "id": "can8",
+  "asset_type": "FileBasedObject",
+  "license": "None",
+  "kwargs": {
+    "render_filename": "{asset_dir}/can8.blend",
+    "render_import_kwargs": {
+      "filepath": "models/can8/can8.blend/Object/can",
+      "directory": "models/can8/can8.blend/Object",
+      "filename": "can"
+    }
+  },
+  "metadata": {
+    "class_id": 4,
+    "description": "Mountain Dew Can",
+    "xscale": 0.07,
+    "yscale": 0.103,
+    "zscale": 0.0705,
+    "url": "https://sketchfab.com/3d-models/soda-cans-4e0be610db9646929d8be84491f1a72f",
+    "type": "train"
+  }
+}

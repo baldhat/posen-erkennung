@@ -1,0 +1,22 @@
+{
+  "id": "mug16",
+  "asset_type": "FileBasedObject",
+  "license": "None",
+  "kwargs": {
+    "render_filename": "{asset_dir}/mug16.blend",
+    "render_import_kwargs": {
+      "filepath": "models/mug16/mug16.blend/Object/mug",
+      "directory": "models/mug16/mug16.blend/Object",
+      "filename": "mug"
+    }
+  },
+  "metadata": {
+    "class_id": 6,
+    "description": "Yellow Coffee Mug",
+    "xscale": 0.147,
+    "yscale": 0.122,
+    "zscale": 0.097,
+    "url": "https://sketchfab.com/3d-models/cofee-mug-856c8e743e11439ebcb8e5da55b8fc73",
+    "type": "train"
+  }
+}

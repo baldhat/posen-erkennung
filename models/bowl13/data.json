@@ -1,0 +1,22 @@
+{
+  "id": "bowl13",
+  "asset_type": "FileBasedObject",
+  "license": "None",
+  "kwargs": {
+    "render_filename": "{asset_dir}/bowl13.blend",
+    "render_import_kwargs": {
+      "filepath": "models/bowl13/bowl13.blend/Object/bowl",
+      "directory": "models/bowl13/bowl13.blend/Object",
+      "filename": "bowl"
+    }
+  },
+  "metadata": {
+    "class_id": 2,
+    "description": "Light Blue Bowl",
+    "xscale": 0.217,
+    "yscale": 0.101,
+    "zscale": 0.217,
+    "url": "https://sketchfab.com/3d-models/bowl-6c6d124baca54d09871af6bc77738b81",
+    "type": "train"
+  }
+}

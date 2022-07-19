@@ -1,6 +1,6 @@
 import os
 
-model = "can6"
+model = ""
 
 if len(model) > 1:
     folder_name = model

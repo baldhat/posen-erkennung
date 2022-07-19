@@ -1,0 +1,21 @@
+{
+  "id": "can3",
+  "asset_type": "FileBasedObject",
+  "license": "None",
+  "kwargs": {
+    "render_filename": "{asset_dir}/can3.blend",
+    "render_import_kwargs": {
+      "filepath": "models/can3/can3.blend/Object/can",
+      "directory": "models/can3/can3.blend/Object",
+      "filename": "can"
+    }
+  },
+  "metadata": {
+    "class_id": 4,
+    "description": "Yellow Soda Can",
+    "xscale": 0.05,
+    "yscale": 0.092,
+    "zscale": 0.05,
+    "url": "https://www.cgtrader.com/items/2020241/download-page"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "bowl11",
+  "asset_type": "FileBasedObject",
+  "license": "None",
+  "kwargs": {
+    "render_filename": "{asset_dir}/bowl11.blend",
+    "render_import_kwargs": {
+      "filepath": "models/bowl11/bowl11.blend/Object/bowl",
+      "directory": "models/bowl11/bowl11.blend/Object",
+      "filename": "bowl"
+    }
+  },
+  "metadata": {
+    "class_id": 2,
+    "description": "Red Bowl",
+    "xscale": 0.096,
+    "yscale": 0.040,
+    "zscale": 0.096,
+    "url": "https://sketchfab.com/3d-models/bowl-13339ceb5ddc44aaa8b69b7cee51d9c3",
+    "type": "train"
+  }
+}

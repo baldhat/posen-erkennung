@@ -1,0 +1,21 @@
+{
+  "id": "bowl4",
+  "asset_type": "FileBasedObject",
+  "license": "None",
+  "kwargs": {
+    "render_filename": "{asset_dir}/bowl4.blend",
+    "render_import_kwargs": {
+      "filepath": "models/bowl4/bowl4.blend/Object/bowl",
+      "directory": "models/bowl4/bowl4.blend/Object",
+      "filename": "bowl"
+    }
+  },
+  "metadata": {
+    "class_id": 2,
+    "description": "Light Pink Bowl",
+    "xscale": 0.202,
+    "yscale": 0.0918,
+    "zscale": 0.202,
+    "url": "https://www.cgtrader.com/items/3480025/download-page"
+  }
+}

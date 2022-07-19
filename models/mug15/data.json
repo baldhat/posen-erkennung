@@ -1,0 +1,22 @@
+{
+  "id": "mug15",
+  "asset_type": "FileBasedObject",
+  "license": "None",
+  "kwargs": {
+    "render_filename": "{asset_dir}/mug15.blend",
+    "render_import_kwargs": {
+      "filepath": "models/mug15/mug15.blend/Object/mug",
+      "directory": "models/mug15/mug15.blend/Object",
+      "filename": "mug"
+    }
+  },
+  "metadata": {
+    "class_id": 6,
+    "description": "Tea Time Mug",
+    "xscale": 0.147,
+    "yscale": 0.117,
+    "zscale": 0.0972,
+    "url": "https://sketchfab.com/3d-models/mug-8cdaa8d8fbc34606a734f3dbd1e63e12",
+    "type": "train"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rubikscube11",
+  "asset_type": "FileBasedObject",
+  "license": "None",
+  "kwargs": {
+    "render_filename": "{asset_dir}/rubikscube11.blend",
+    "render_import_kwargs": {
+      "filepath": "models/rubikscube11/rubikscube11.blend/Object/rubikscube",
+      "directory": "models/rubikscube11/rubikscube11.blend/Object",
+      "filename": "rubikscube"
+    }
+  },
+  "metadata": {
+    "class_id": 7,
+    "description": "Rubiks Cube",
+    "xscale": 0.0602,
+    "yscale": 0.0603,
+    "zscale": 0.0603,
+    "url": "https://sketchfab.com/3d-models/solved-rubiks-cube-01e09140299743c7a7a478522e41db5a",
+    "type": "train"
+  }
+}

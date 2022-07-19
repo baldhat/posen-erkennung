@@ -1,0 +1,21 @@
+{
+      "id": "bottle6",
+      "asset_type": "FileBasedObject",
+      "license": "None",
+      "kwargs": {
+        "render_filename": "{asset_dir}/bottle6.blend",
+        "render_import_kwargs": {
+          "filepath": "models/bottle6/bottle6.blend/Object/bottle",
+          "directory": "models/bottle6/bottle6.blend/Object",
+          "filename": "bottle"
+        }
+      },
+      "metadata": {
+        "class_id": 1,
+        "description": "Sprite Bottle",
+        "xscale": 0.108,
+        "yscale": 0.32,
+        "zscale": 0.108,
+        "url": "https://europa.eu/europass/eportfolio/screen/cv-editor?lang=en"
+      }
+    }

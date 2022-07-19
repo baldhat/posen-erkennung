@@ -1,0 +1,22 @@
+{
+  "id": "laptop9",
+  "asset_type": "FileBasedObject",
+  "license": "None",
+  "kwargs": {
+    "render_filename": "{asset_dir}/laptop9.blend",
+    "render_import_kwargs": {
+      "filepath": "models/laptop9/laptop9.blend/Object/laptop",
+      "directory": "models/laptop9/laptop9.blend/Object",
+      "filename": "laptop"
+    }
+  },
+  "metadata": {
+    "class_id": 5,
+    "description": "Generic Macbook",
+    "xscale": 0.283,
+    "yscale": 0.252,
+    "zscale": 0.367,
+    "url": "https://www.turbosquid.com/3d-models/laptop-obj-free/1063981#",
+    "type": "train"
+  }
+}

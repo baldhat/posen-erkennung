@@ -1,0 +1,22 @@
+{
+  "id": "mug17",
+  "asset_type": "FileBasedObject",
+  "license": "None",
+  "kwargs": {
+    "render_filename": "{asset_dir}/mug17.blend",
+    "render_import_kwargs": {
+      "filepath": "models/mug17/mug17.blend/Object/mug",
+      "directory": "models/mug17/mug17.blend/Object",
+      "filename": "mug"
+    }
+  },
+  "metadata": {
+    "class_id": 6,
+    "description": "World's best boss Mug",
+    "xscale": 0.163,
+    "yscale": 0.122,
+    "zscale": 0.119,
+    "url": "https://sketchfab.com/3d-models/worlds-best-boss-mug-b46c1630ac9a406688e36a4b798cab75",
+    "type": "train"
+  }
+}

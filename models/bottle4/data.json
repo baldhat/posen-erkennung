@@ -1,0 +1,21 @@
+{
+  "id": "bottle4",
+  "asset_type": "FileBasedObject",
+  "license": "None",
+  "kwargs": {
+    "render_filename": "{asset_dir}/bottle4.blend",
+    "render_import_kwargs": {
+      "filepath": "models/bottle4/bottle4.blend/Object/bottle",
+      "directory": "models/bottle4/bottle4.blend/Object",
+      "filename": "bottle"
+    }
+  },
+  "metadata": {
+    "class_id": 1,
+    "description": "Champagne Bottle",
+    "xscale": 0.0674,
+    "yscale": 0.26,
+    "zscale": 0.0674,
+    "url": "https://free3d.com/3d-model/bottle-v1--116169.html"
+  }
+}

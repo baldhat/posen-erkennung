@@ -1,0 +1,22 @@
+{
+  "id": "mug14",
+  "asset_type": "FileBasedObject",
+  "license": "None",
+  "kwargs": {
+    "render_filename": "{asset_dir}/mug14.blend",
+    "render_import_kwargs": {
+      "filepath": "models/mug14/mug14.blend/Object/mug",
+      "directory": "models/mug14/mug14.blend/Object",
+      "filename": "mug"
+    }
+  },
+  "metadata": {
+    "class_id": 6,
+    "description": "Kitten Mug",
+    "xscale": 0.151,
+    "yscale": 0.0953,
+    "zscale": 0.107,
+    "url": "https://sketchfab.com/3d-models/mug-97351bb3d87649a49cea2339e9d3aa88",
+    "type": "train"
+  }
+}

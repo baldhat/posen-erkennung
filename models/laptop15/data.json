@@ -1,0 +1,22 @@
+{
+  "id": "laptop15",
+  "asset_type": "FileBasedObject",
+  "license": "None",
+  "kwargs": {
+    "render_filename": "{asset_dir}/laptop15.blend",
+    "render_import_kwargs": {
+      "filepath": "models/laptop15/laptop15.blend/Object/laptop",
+      "directory": "models/laptop15/laptop15.blend/Object",
+      "filename": "laptop"
+    }
+  },
+  "metadata": {
+    "class_id": 5,
+    "description": "Lenovo Thinkpad Based Laptop",
+    "xscale": 0.289,
+    "yscale": 0.218,
+    "zscale": 0.313,
+    "url": "https://sketchfab.com/3d-models/laptop-c144fe98db1a4c0a8e5759772dd37cbc",
+    "type": "train"
+  }
+}

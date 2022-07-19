@@ -1,0 +1,22 @@
+{
+  "id": "can14",
+  "asset_type": "FileBasedObject",
+  "license": "None",
+  "kwargs": {
+    "render_filename": "{asset_dir}/can14.blend",
+    "render_import_kwargs": {
+      "filepath": "models/can14/can14.blend/Object/can",
+      "directory": "models/can14/can14.blend/Object",
+      "filename": "can"
+    }
+  },
+  "metadata": {
+    "class_id": 4,
+    "description": "Pink Soda Can",
+    "xscale": 0.0545,
+    "yscale": 0.142,
+    "zscale": 0.0574,
+    "url": "https://sketchfab.com/3d-models/soda-cans-75b584d7a84b4e3e9c74401987594413",
+    "type": "train"
+  }
+}

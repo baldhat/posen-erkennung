@@ -1,0 +1,21 @@
+{
+  "id": "laptop6",
+  "asset_type": "FileBasedObject",
+  "license": "None",
+  "kwargs": {
+    "render_filename": "{asset_dir}/laptop6.blend",
+    "render_import_kwargs": {
+      "filepath": "models/laptop6/laptop6.blend/Object/laptop",
+      "directory": "models/laptop6/laptop6.blend/Object",
+      "filename": "laptop"
+    }
+  },
+  "metadata": {
+    "class_id": 5,
+    "description": "Mac Book Pro",
+    "xscale": 0.285,
+    "yscale": 0.204,
+    "zscale": 0.299,
+    "url": "https://www.cgtrader.com/items/3487784/download-page"
+  }
+}

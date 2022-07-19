@@ -1,0 +1,22 @@
+{
+  "id": "can9",
+  "asset_type": "FileBasedObject",
+  "license": "None",
+  "kwargs": {
+    "render_filename": "{asset_dir}/can9.blend",
+    "render_import_kwargs": {
+      "filepath": "models/can9/can9.blend/Object/can",
+      "directory": "models/can9/can9.blend/Object",
+      "filename": "can"
+    }
+  },
+  "metadata": {
+    "class_id": 4,
+    "description": "Coca Cola Can",
+    "xscale": 0.06,
+    "yscale": 0.0883,
+    "zscale": 0.0599,
+    "url": "https://sketchfab.com/3d-models/soda-cans-4e0be610db9646929d8be84491f1a72f",
+    "type": "train"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "bowl2",
+  "asset_type": "FileBasedObject",
+  "license": "None",
+  "kwargs": {
+    "render_filename": "{asset_dir}/bowl2.blend",
+    "render_import_kwargs": {
+      "filepath": "models/bowl2/bowl2.blend/Object/bowl",
+      "directory": "models/bowl2/bowl2.blend/Object",
+      "filename": "bowl"
+    }
+  },
+  "metadata": {
+    "class_id": 2,
+    "description": "Black Bowl",
+    "xscale": 0.147,
+    "yscale": 0.047,
+    "zscale": 0.147,
+    "url": "https://www.cgtrader.com/items/2627399/download-page"
+  }
+}
