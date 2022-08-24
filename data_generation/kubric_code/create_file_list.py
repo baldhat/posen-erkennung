@@ -8,7 +8,7 @@ import cmath
 import cv2
 
 ROOT_DIR = "E:"
-SRC_DIR = "D:/code/python/kubric/output"
+SRC_DIR = "D:/code/python/kubric_code/output"
 sym_id = [0,1,3]
 
 

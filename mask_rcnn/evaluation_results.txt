@@ -1,0 +1,71 @@
+Modell:     nocs_only
+Epoch:      22
+Testset:    REAL275-Test (200 Bilder, seed 1234)
+mAP:        0.2733
+
+
+Modell:     nocs_lvis
+Epoch:      10
+Testset:    REAL275-Test (200 Bilder, seed 1234)
+mAP:        0.2994
+
+Modell:     nocs_lvis
+Epoch:      30
+Testset:    REAL275-Test (200 Bilder, seed 1234)
+mAP:        0.4594
+
+Modell:     nocs_lvis
+Epoch:      50
+Testset:    REAL275-Test (200 Bilder, seed 1234)
+mAP:        0.5019
+
+Modell:     nocs_lvis
+Epoch:      60
+Testset:    REAL275-Test (200 Bilder, seed 1234)
+mAP:        0.5249
+
+Modell:     nocs_lvis_baldhatsyn (1)
+Epoch:      7
+Testset:    REAL275-Test (200 Bilder, seed 1234)
+mAP:        0.6802
+
+Modell:     nocs_lvis_baldhatsyn (1)
+Epoch:      7
+Testset:    REAL275-Test (200 Bilder, seed 1234) + Baldhatsyn-Testset
+mAP:        0.5186
+
+Modell:     nocs_lvis_baldhatsyn (2)
+Epoch:      20
+Testset:    REAL275-Test (200 Bilder, seed 1234) + Baldhatsyn-Testset
+mAP:        0.5571
+
+Modell:     nocs_lvis_baldhatsyn (2)
+Epoch:      10
+Testset:    REAL275-Test (200 Bilder, seed 1234) + Baldhatsyn-Testset
+mAP:        0.5381
+
+Modell:     nocs_lvis_baldhatsyn (2)
+Epoch:      10
+Testset:    REAL275-Test (200 Bilder, seed 1234)
+mAP:        0.6853
+
+Modell:     nocs_lvis_baldhatsyn (2)
+Epoch:      20
+Testset:    REAL275-Test (200 Bilder, seed 1234)
+mAP:        0.6753
+
+Modell:     nocs_lvis_baldhatsyn (3)
+Epoch:      28
+Testset:    REAL275-Test (200 Bilder, seed 1234)
+mAP:        0.6698
+
+Modell:     nocs_lvis_baldhatsyn (3)
+Epoch:      13
+Testset:    REAL275-Test (200 Bilder, seed 1234)
+mAP:        0.6044
+
+Modell:     nocs_lvis_baldhatsyn (3)
+Epoch:      30
+Testset:    REAL275-Test (200 Bilder, seed 1234) 0.642
+mAP:
+

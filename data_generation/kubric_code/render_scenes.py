@@ -8,7 +8,7 @@ from scipy.spatial.transform import Rotation
 import os
 import random
 
-# docker run --rm --interactive --volume "D:\code\python\kubric:/kubric" kubricdockerhub/kubruntu python render_scenes.py
+# docker run --rm --interactive --volume "D:\code\python\kubric_code:/kubric_code" kubricdockerhub/kubruntu python render_scenes.py
 # Store image path in meta file
 
 logging.basicConfig(level="WARNING")
@@ -40,7 +40,7 @@ def main():
     camera, renderer, scene, node_environment = init()
     model_dataset = kb.AssetSource.from_manifest(SOURCE_PATH)
     logging.warning("Number of assets: " + str(len(model_dataset._assets.items())))
-    hdri_source = kb.AssetSource.from_manifest("gs://kubric-public/assets/HDRI_haven/HDRI_haven.json")
+    hdri_source = kb.AssetSource.from_manifest("gs://kubric_code-public/assets/HDRI_haven/HDRI_haven.json")
     backgrounds = [name for name, spec in hdri_source._assets.items()
                         if 'studio' not in spec['metadata']["categories"]
                         and 'indoor' in spec['metadata']['categories']
