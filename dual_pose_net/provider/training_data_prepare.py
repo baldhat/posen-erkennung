@@ -19,7 +19,7 @@ ROOT_DIR = BASE_DIR
 sys.path.append(os.path.join(ROOT_DIR, '..', 'utils'))
 from align_utils import align_nocs_to_depth
 
-sys.path.append(os.path.join(ROOT_DIR, '..', 'mycode'))
+sys.path.append(os.path.join(ROOT_DIR, '..', 'common'))
 from visualize_pkl import get_coordinate_axes, get_3d_bbox, draw_coordinate_axes, draw_3d_bbox, transform_coordinates_3d
 
 sym_id = [0,1,3]
