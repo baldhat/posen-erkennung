@@ -29,21 +29,6 @@ Epoch:      7
 Testset:    REAL275-Test (200 Bilder, seed 1234)
 mAP:        0.6802
 
-Modell:     nocs_lvis_baldhatsyn (1)
-Epoch:      7
-Testset:    REAL275-Test (200 Bilder, seed 1234) + Baldhatsyn-Testset
-mAP:        0.5186
-
-Modell:     nocs_lvis_baldhatsyn (2)
-Epoch:      20
-Testset:    REAL275-Test (200 Bilder, seed 1234) + Baldhatsyn-Testset
-mAP:        0.5571
-
-Modell:     nocs_lvis_baldhatsyn (2)
-Epoch:      10
-Testset:    REAL275-Test (200 Bilder, seed 1234) + Baldhatsyn-Testset
-mAP:        0.5381
-
 Modell:     nocs_lvis_baldhatsyn (2)
 Epoch:      10
 Testset:    REAL275-Test (200 Bilder, seed 1234)
